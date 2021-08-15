@@ -1,0 +1,22 @@
+######################################################
+
+
+1- first of all open VSCode editor and drag the folder.
+
+##
+
+2- open the terminal " Ctrl+shift+" ".
+
+##
+
+3-C:\.....\Translate work> npm i qs axios parcel@next -D  hit Enter.
+
+##
+
+4- after complete installation C:\.....\Translate work> npm start hit Enter.
+
+##
+
+5- open a new browser tab and paste http://localhost:1234
+
+

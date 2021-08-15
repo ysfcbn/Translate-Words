@@ -1,0 +1,19 @@
+{
+  "name": "translate-work",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@bundled-es-modules/axios": "^0.21.1"
+  },
+  "devDependencies": {
+    "axios": "^0.21.1",
+    "parcel": "^2.0.0-rc.0",
+    "qs": "^6.10.1"
+  }
+}
