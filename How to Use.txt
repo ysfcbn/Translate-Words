@@ -9,11 +9,11 @@
 
 ##
 
-3-C:\.....\Translate work> npm i qs axios parcel@next -D  hit Enter.
+3-C:\.....\Translate Words> npm i qs axios parcel@next -D  hit Enter.
 
 ##
 
-4- after complete installation C:\.....\Translate work> npm start hit Enter.
+4- after complete installation C:\.....\Translate Words> npm start hit Enter.
 
 ##
 
